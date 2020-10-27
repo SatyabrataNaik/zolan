@@ -1,0 +1,22 @@
+---
+layout: post
+title:  The Check
+date:   2020-10-20 11:01:35 +0300
+image:  checklist.jpg
+---
+### Creating a product brief
+* The Check is the most valuable stage in design innovation. It gives a clear direction to the design innovation, without losing focus on the needs of the target user.
+* Every point in the checklist needs to be clearly met in the design process. 
+
+### Following features should be kept in mind before going to the 4th C (The Conception)
+* Maintenance free 
+* Durable
+* Easy to transport to the salt pan location
+* Easy to store (may be foldable)
+* Effortless usage
+* Easy movement on sand and thin water layers
+* Cost effective (low cost)
+
+##### Acknowledgement
+
+* Images were taken from Google Images

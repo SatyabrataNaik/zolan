@@ -3,7 +3,6 @@ layout: post
 title:  7C’s of Innovation by Design 
 date:   2020-10-20 15:01:35 +0300
 image:  7cInnovation.jpg
-tags:   Resources
 ---
 The seven concerns that form the backbone for the process of innovation are:
 
