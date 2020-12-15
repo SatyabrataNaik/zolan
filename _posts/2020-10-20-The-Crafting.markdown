@@ -6,6 +6,28 @@ image:  7cInnovation.jpg
 ---
 The seven concerns that form the backbone for the process of innovation are:
 
-### 1. The Cause 
+### 1 Building mock-ups and prototypes 
+* Considering to adopt each of the design requirements, the master design was bought alive by CAD as shown here
+* Integrated loader and Unloader, of which loader being modular in design can be attached only when required
+* Each dimension being crafted in actual scale, it’s the manufacture ready design
+* This design was accomplished  after several iterations to fit both under user comfort and design up holdings
+<div markdown="1" class="row">
+  <div class="column">
+    <img src="{{site.baseurl}}/images/image1Crafting.png" height="400" width="400">
+  </div>
+  <div class="column">
+    <img src="{{site.baseurl}}/images/image2Crafting.png" height="400" width="400">
+  </div>
+</div>
 
-Every design project is usually initiated by a need (be it a commercial requirement or a social necessity) or a problem with the product. This need or problem recognition is a key trigger for the project and it can be identified either by a product manufacturer/marketer, user, or even a product designer. Cause is not merely the problem or reason. It is a deep need perceived by the designer as something that merits urgent attention.
+
+<div markdown="1" class="row">
+  <div class="column">
+    <img src="{{site.baseurl}}/images/image3Crafting.png" height="400" width="400">
+  </div>
+  <div class="column">
+    <img src="{{site.baseurl}}/images/image4Crafting.png" height="400" width="400">
+  </div>
+</div>
+
+
