@@ -51,7 +51,7 @@ mechanism.
 ### 3 Clustering ideas to candidate concepts
 ##### 3.1 Concept 1
 <div markdown="1" >
-<img src="{{site.baseurl}}/images/asketch.jpg" height="300" width="400">
+<img src="{{site.baseurl}}/images/Asketch.jpg" height="300" width="400">
 </div>
 * Integrated loading/collector and container
 * Four-wheeled cart, unlike 1 or 2 wheeler, user need not lift any part of the cart for movement
@@ -59,7 +59,7 @@ mechanism.
 
 ##### 3.2 Concept 2
 <div markdown="1" >
-<img src="{{site.baseurl}}/images/bsketch.jpg" height="300" width="400">
+<img src="{{site.baseurl}}/images/Bsketch.jpg" height="300" width="400">
 </div>
 * Separate loader design, hence no need to carry it every time
 * Two-wheeled cart, hence easy mobility
@@ -68,7 +68,7 @@ mechanism.
 
 ##### 3.3 Concept 3
 <div markdown="1" >
-<img src="{{site.baseurl}}/images/csketch.jpg" height="300" width="400">
+<img src="{{site.baseurl}}/images/Csketch.jpg" height="300" width="400">
 </div>
 * Sledge design instead of wheels to help in the marshy environment
 * Integrated unloader so has to help easy dropping of the load
