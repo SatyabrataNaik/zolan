@@ -5,7 +5,7 @@ date:   2020-10-20 12:01:35 +0300
 image:  TrolleyWithWood.jpg
 ---
 ### Arriving at design insights
-The comprehension describes the stage where design insights emerge. The designer synthesis all the observations and perceptions that have come up during the study of the context. 
+The comprehension describes the stage where design insights emerge. The designers synthesize all the observations and perceptions that have come up during the study of the context. 
 * It includes the thorough understanding of user space
 * Insights into challenges of materials and manufacturing 
 * Mapping of current technologies
